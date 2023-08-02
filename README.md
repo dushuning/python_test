@@ -1,2 +1,1 @@
-# python_test
-study python test
+一个记录学习python的练习代码
